@@ -6,7 +6,7 @@
 Currently pursuing B.Tech in Information Technology at MIT – Anna University.
 
 🎯 Interests & Goals  
-- Problem Solving & Competitive Programming  
+- Problem Solving  
 - Data Structures and Algorithms (DSA)  
 - Artificial Intelligence & Machine Learning  
 - Building useful tech solutions that make life easier
