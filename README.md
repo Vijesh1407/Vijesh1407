@@ -1,4 +1,4 @@
-👋 Hi, I'm Vijesh T
+👋 Hi, I'm Vijesh
 
 🧑‍💻 I'm an enthusiastic tech learner and builder with a strong passion for solving real-world problems using efficient algorithms and creative thinking.
 
