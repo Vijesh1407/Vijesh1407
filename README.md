@@ -16,7 +16,7 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 Languages & Frameworks:  
 C, C++, Python, Java, SpringBoot, HTML, CSS, JavaScript, Bootstrap
 
-## 🚀 Projects
+🚀 Projects
 
 - **📚 Course Enrollment Web Application**  
   Developed a student course registration system where users can enroll in courses and view registered course details.  
