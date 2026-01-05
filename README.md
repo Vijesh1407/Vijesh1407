@@ -12,15 +12,26 @@
 
 💻 Tech Stack / Tools  
 Languages & Frameworks:  
-C, C++, Python, HTML, CSS, JavaScript, Bootstrap, React.js
+C, C++, Python, Java, SpringBoot, HTML, CSS, JavaScript, Bootstrap
 
-🚀 Projects  
-- 🧳 Tourist Booking Hub – A front-end project for booking travel packages
-- 🧾 Student Record Management System – React-based interface for managing student records with validation 
-- 🧠 DSA Learning Path Optimizer – Efficient topic retrieval using AVL and Splay Trees  
-- 🚦 Adaptive Traffic Routing Solution – Real-time route optimization using city graphs  
-- 🏥 Emergency Patient Queue System – Priority-based queue using Leftist Heap  
-- 📝 RTO Database ERD Design – Conceptual model for regional transport office data
+## 🚀 Projects
+
+- **📚 Course Enrollment Web Application**  
+  Developed a student course registration system where users can enroll in courses and view registered course details.  
+  **Tech:** Java, Spring Boot, MySQL, HTML, CSS, Bootstrap
+
+- **💰 Personal Finance Management System**  
+  Built a desktop application to securely record and manage income and expense transactions with an interactive GUI.  
+  **Tech:** Java, Swing, JDBC, MySQL
+
+- **🏥 Emergency Patient Queue System**  
+  Designed and implemented a priority-based patient management system using a **Leftist Heap** to handle emergency cases efficiently.  
+  **Tech:** C++, Leftist Heap
+
+- **📄 DocuGPT**  
+  Created an AI-powered PDF assistant that answers user queries from uploaded documents using semantic search and a Flan-T5 model.  
+  **Tech:** Python, Streamlit, LangChain, Hugging Face
+
 
 ⚡ Fun Facts / Hobbies  
 - 🏏 I’m a cricket enthusiast and love discussing match stats and moments
