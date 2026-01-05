@@ -1,6 +1,8 @@
 👋 Hi, I'm Vijesh
 
-🧑‍💻 I'm an enthusiastic tech learner and builder with a strong passion for solving real-world problems using efficient algorithms and creative thinking.
+🧑‍💻 **IT Undergraduate | Problem Solver | Aspiring Software Developer**
+
+I’m an enthusiastic tech learner with a strong interest in **software development, data structures, and algorithmic problem-solving**. I enjoy building practical applications that solve real-world problems using efficient and well-structured solutions.
 
 🎓 Current Status  
   Pursuing B.Tech in Information Technology at MIT – Anna University.
